@@ -95,7 +95,7 @@
             },
             "ClientTheme": {
                 "enabled": true,
-                "color": "000000"
+                "color": "0c0c0c"
             },
             "ColorSighted": {
                 "enabled": false
@@ -520,7 +520,7 @@
             "authenticated": false,
             "url": "https://api.vencord.dev/",
             "settingsSync": false,
-            "settingsSyncVersion": 1712904452422
+            "settingsSyncVersion": 1713649743542
         }
     },
     "quickCss": ""
