@@ -44,7 +44,8 @@
                 "enabled": false
             },
             "NoTrack": {
-                "enabled": true
+                "enabled": true,
+                "disableAnalytics": true
             },
             "Settings": {
                 "enabled": true,
@@ -95,7 +96,7 @@
             },
             "ClientTheme": {
                 "enabled": true,
-                "color": "0c0c0c"
+                "color": "111111"
             },
             "ColorSighted": {
                 "enabled": false
@@ -372,9 +373,6 @@
             "ShowMeYourName": {
                 "enabled": false
             },
-            "ShowTimeouts": {
-                "enabled": false
-            },
             "SilentMessageToggle": {
                 "enabled": false
             },
@@ -508,6 +506,24 @@
             },
             "UnlockedAvatarZoom": {
                 "enabled": false
+            },
+            "ShowHiddenThings": {
+                "enabled": false
+            },
+            "BetterSessions": {
+                "enabled": false
+            },
+            "ImageLink": {
+                "enabled": false
+            },
+            "ImplicitRelationships": {
+                "enabled": false
+            },
+            "PauseInvitesForever": {
+                "enabled": false
+            },
+            "StreamerModeOnStream": {
+                "enabled": false
             }
         },
         "notifications": {
@@ -520,7 +536,7 @@
             "authenticated": false,
             "url": "https://api.vencord.dev/",
             "settingsSync": false,
-            "settingsSyncVersion": 1713649743542
+            "settingsSyncVersion": 1715097404110
         }
     },
     "quickCss": ""
